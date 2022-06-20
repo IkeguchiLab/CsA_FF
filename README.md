@@ -1,5 +1,5 @@
 # CsA_FF
-The CHARMM force field of unatural amino acids in the cyclic peptide cyclosporin A.
+The CHARMM force field of unnatural amino acids in the cyclic peptide cyclosporin A.
 ***
 The force field file consists of two files: a topology file (CsA_CHARMM.rtf) and a parameter file (CsA_CHARMM.prm).
 ***
